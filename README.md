@@ -42,3 +42,8 @@ npm i vue-router
 ## Ajax - HttpXMLRequest 객체
 
 1. 자바 스크립트로 api 요청
+
+## 인증
+
+1. jwt를 이용해서 토큰 정보를 해서 만든다.
+2. localStorage
