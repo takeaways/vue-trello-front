@@ -38,3 +38,7 @@ making trello with vue
 ```bash
 npm i vue-router
 ```
+
+## Ajax - HttpXMLRequest 객체
+
+1. 자바 스크립트로 api 요청
