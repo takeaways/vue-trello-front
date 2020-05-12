@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <h2>Essential Links</h2>
+    <h2>Start Vue Code</h2>
+    <router-view></router-view>
   </div>
 </template>
 
